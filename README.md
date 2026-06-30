@@ -68,3 +68,13 @@ Tecnicatura Universitaria en Programación a Distancia
 Universidad Tecnológica Nacional - Facultad Regional San Nicolás
 
 Año 2026
+
+## Link informe
+
+https://github.com/aaronaxelcambursano/TPI_gestion_datos_de_paises
+
+## Link video
+
+https://www.youtube.com/watch?v=wqz4hl_n8c4
+
+
